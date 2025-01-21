@@ -1,0 +1,48 @@
+#background{
+    background-image: url(https://mgmjournalism.org/images/about/about-mgm/mgm-university-aurangabad-about.jpg);
+    background-size: cover;
+}
+
+.mgm{
+    padding: 50px;
+    padding-left: 70px;
+    float:inline-start;
+    margin-left: 7%;
+    margin-top: 6%;
+    background-color: rgba(240, 248, 255,0.55);
+}
+
+#login-block{
+    height: 350px;
+    width: 250px;
+    background-color:rgba(240, 248, 255,0.55);
+    box-shadow: 3px 2px 2px rgb(64, 64, 64);
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-weight: bold;
+    float:inline-start;
+    padding: 10px;
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    border-radius: 0%;
+    background-color: rgb(9, 9, 74);
+    color: white;
+}
+
+.tital{
+    text-align: center;
+
+}
+h4{
+    text-align:center;
+}
+
+input{
+    font-weight: bold;
+    border-radius: 5px;
+}
+
